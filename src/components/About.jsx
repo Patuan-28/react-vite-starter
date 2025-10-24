@@ -1,8 +1,8 @@
 export default function About() {
   return (
     <section id="about" style={{ padding: '4rem 1rem', textAlign: 'center' }}>
-      <h2>Tentang Saya</h2>
-      <p>Saya seorang Software Engineer yang fokus pada pengembangan web dan machine learning.</p>
+      <h2>Ini cerita kami bertiga</h2>
+      <p>Kami seorang yang mengimpikan menjadi professional creative web developer</p>
     </section>
   );
 }
